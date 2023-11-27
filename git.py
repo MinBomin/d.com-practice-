@@ -1,2 +1,2 @@
-print("hellooooooooooooooooooooon BOOOOOOOOOOOOOMMMMMMMMMMMMMMINNNNNNNNNNNN")
+print("hellooooooooooooooooooooon BOOOOOOOOOOOOMMMMMMMMMMMMMMINNNNNNNNNNNN")
 print("hellomallo kukuluppingppong===")
